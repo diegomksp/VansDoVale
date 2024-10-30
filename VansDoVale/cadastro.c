@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include "cadastro.h"
 
-
+//linha
 PASSAGEIRO cadastro_pas(){
 	PASSAGEIRO a;
 	printf("Nome: ");
