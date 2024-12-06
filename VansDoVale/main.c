@@ -5,6 +5,8 @@
 
 
 int main(int argc, char *argv[]) {
+	printf("Entrando com uma nova funcionalidade nesse codigo. Essa parte é somente para treinamento de versionamento de código.\n");
+	printf("Esse testo foi em uma nova branch.\n");
 	PASSAGEIRO b;
 	FILE *file;
 	
