@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include "cadastro.h"
 
+printf("ola");
 //linha
 PASSAGEIRO cadastro_pas(){
 	PASSAGEIRO a;
